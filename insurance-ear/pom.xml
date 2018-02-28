@@ -10,7 +10,7 @@
 	</parent>
 
 	<artifactId>insurance-ear</artifactId>
-	<packaging>ear</packaging>
+	<packaging>war</packaging>
 
 	<name>insurance EAR module</name>
 
